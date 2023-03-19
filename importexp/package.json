@@ -1,0 +1,21 @@
+{
+  "name": "es6-workshop",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "\"# ES6-Workshop-March\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/narasimhareddyprostack/ES6-Workshop-March.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/narasimhareddyprostack/ES6-Workshop-March/issues"
+  },
+  "homepage": "https://github.com/narasimhareddyprostack/ES6-Workshop-March#readme"
+}
